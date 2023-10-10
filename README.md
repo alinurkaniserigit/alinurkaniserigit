@@ -1,22 +1,7 @@
-# alinurkaniserigit
- alinurkaniserigit
-## Hi there 👋
-
-### I'm Ali Nurkan
-
-
-Welcome to my github 😃
-
-I'm a  full stack software developer
-
-Also,I'm currently working on a few projects
-
 <h1 align="center">Hi 👋, I'm Ali Nurkan</h1>
 <h3 align="center">i'm a Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinurkaniserigit&label=Profile%20views&color=0e75b6&style=flat" alt="alinurkaniserigit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alinurkaniserigit" alt="alinurkaniserigit" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,24 +13,3 @@ Also,I'm currently working on a few projects
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alinurkaniserigit&show_icons=true&locale=en&layout=compact" alt="alinurkaniserigit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alinurkaniserigit&show_icons=true&locale=en" alt="alinurkaniserigit" /></p>
-
-
-
-[![Ali Nurkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinurkaniserigit&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinurkaniserigit&hide=html&langs_count=6&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**mastercorvowade/mastercorvowade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
