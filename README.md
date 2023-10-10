@@ -10,4 +10,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alinurkaniserigit&show_icons=true&theme=radical&locale=en&layout=compact" alt="alinurkaniserigit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinurkaniserigit&hide=html&langs_count=6&show_icons=true&theme=radical" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alinurkaniserigit&show_icons=true&theme=tokyonight&locale=en" alt="alinurkaniserigit" /></p>
