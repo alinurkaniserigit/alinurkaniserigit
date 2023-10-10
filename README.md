@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinurkaniserigit&label=Profile%20views&color=0e75b6&style=flat" alt="alinurkaniserigit" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,4 +10,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alinurkaniserigit&show_icons=true&theme=radical&locale=en&layout=compact" alt="alinurkaniserigit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alinurkaniserigit&show_icons=true&theme=tokyonight&locale=en" alt="alinurkaniserigit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinurkaniserigit&hide=html&langs_count=6&show_icons=true&theme=radical" /></p>
